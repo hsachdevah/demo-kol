@@ -1,1 +1,2 @@
 this will contain version 2 changes
+another change to be applied to version 2 - jira 1235
